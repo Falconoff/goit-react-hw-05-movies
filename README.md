@@ -1,8 +1,8 @@
-# React Homework - Movies
+# React Homework-5 - Movies App
 
 [live page](https://Falconoff.github.io/goit-react-hw-05-movies/)
 
-Used:
+## Used:
 
 - [React Router v6](https://reactrouter.com/docs/en/v6/api)
 - [React-toastify](https://fkhadra.github.io/react-toastify/introduction)
@@ -10,7 +10,10 @@ Used:
 - [styled-components](https://styled-components.com/docs)
 - [React hooks](https://ru.reactjs.org/docs/hooks-overview.html)
 
-# React homework template
+## React homework template
+
+Шаблон для проекта использован
+[отсюда](https://github.com/goitacademy/react-homework-template)
 
 Этот проект был создан при помощи
 [Create React App](https://github.com/facebook/create-react-app). Для знакомства
